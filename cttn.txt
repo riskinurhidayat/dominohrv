@@ -1,0 +1,24 @@
+
+DAO( DATA ACCESS OBJECT)
+POJO = Plain Ordinary Java Object
+
+
+DAO:
+dapat 1 object person
+mencari List object person
+membuat object person
+menghapus/delete
+
+
+
+buat project di github, misal domino hrv
+buat folder di komp lokal dgn nama >mkdir dominohrv
+pindah ke dalam folder  > cd dominohrv
+jalankan perintah > git init
+tambahkan file teks ke folder tsb, misalnya cth.txt
+jlalankan perintah >git add cth.txt
+jalankan perintah selanjutnya:
+
+>git commit -m "first commit"
+>git remote add origin
+https://github
